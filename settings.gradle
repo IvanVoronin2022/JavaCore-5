@@ -1,0 +1,3 @@
+rootProject.name = 'JavaCore_1.5.1'
+include 'Main'
+
